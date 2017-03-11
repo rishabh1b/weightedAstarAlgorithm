@@ -1,0 +1,38 @@
+% HW 2 
+% using weighted A* solve the following 6 problems 
+% All problems use the "rand1_nodes.txt" and "rand1_edges.txt" files:
+ 
+---Problem 1---
+start node: 772
+goal node : 386
+weight    : 1.0 
+
+
+---Problem 2---
+start node: 643
+goal node : 608
+weight    : 10.0 
+
+
+---Problem 3---
+start node: 596
+goal node : 609
+weight    : 2.0 
+
+
+---Problem 4---
+start node: 772
+goal node : 386
+weight    : 100.0 
+
+
+---Problem 5---
+start node: 643
+goal node : 608
+weight    : 100.0 
+
+
+---Problem 6---
+start node: 596
+goal node : 609
+weight    : 100.0 
